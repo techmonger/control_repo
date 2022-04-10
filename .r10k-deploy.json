@@ -1,0 +1,10 @@
+{
+  "name": "production",
+  "signature": "585975073d164cdb0ea8ecd4f7afcf3f68eca21e",
+  "started_at": "2022-04-10 12:33:34 +0000",
+  "finished_at": "2022-04-10 12:33:35 +0000",
+  "deploy_success": true,
+  "module_deploys": [
+
+  ]
+}
